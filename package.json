@@ -1,6 +1,6 @@
 {
   "name": "x-ops-assistant",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "X 运营助手：检测账号健康度（关注数/粉丝数），算出健康区间并批量取关不活跃账号。基于 K4nes/X-Unfollower 汉化增强。",
   "main": "background.js",
   "scripts": {

@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "X 运营助手",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "检测 X 账号健康度（关注数/粉丝数），算出健康区间并批量取关不活跃账号。无需付费 API。",
   "author": "fatmanplaydiec1",
   "homepage_url": "https://x.com/fatmanplaydiec1",
