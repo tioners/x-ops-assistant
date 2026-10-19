@@ -1,0 +1,34 @@
+{
+  "name": "x-ops-assistant",
+  "version": "1.4.0",
+  "description": "X 运营助手：检测账号健康度（关注数/粉丝数），算出健康区间并批量取关不活跃账号。基于 K4nes/X-Unfollower 汉化增强。",
+  "main": "background.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tioners/x-ops-assistant.git"
+  },
+  "keywords": [
+    "chrome-extension",
+    "manifest-v3",
+    "twitter",
+    "x",
+    "unfollow",
+    "中文"
+  ],
+  "author": "fatmanplaydiec1 (https://x.com/fatmanplaydiec1)",
+  "contributors": [
+    "firsdeka (https://x.com/firsdeka) — 上游 X-Unfollower 原作者"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tioners/x-ops-assistant/issues"
+  },
+  "homepage": "https://github.com/tioners/x-ops-assistant#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
